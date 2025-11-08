@@ -1,0 +1,886 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Executive",
+            "sku": "SKU-2428",
+            "description": "Entire stuff themselves here none future appear career night reduce clearly.",
+            "category_id": 2,
+            "supplier_id": 4,
+            "unit_price": 241.29,
+            "quantity": 100,
+            "reorder_level": 8,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 2,
+            "name": "Western",
+            "sku": "SKU-8147",
+            "description": "These help according rule bill analysis project.",
+            "category_id": 1,
+            "supplier_id": 4,
+            "unit_price": 418.27,
+            "quantity": 89,
+            "reorder_level": 14,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 3,
+            "name": "Card",
+            "sku": "SKU-1347",
+            "description": "Treat of enter study shoulder gas soon deal participant.",
+            "category_id": 8,
+            "supplier_id": 3,
+            "unit_price": 422.76,
+            "quantity": 85,
+            "reorder_level": 11,
+            "status": "inactive",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 4,
+            "name": "New",
+            "sku": "SKU-6165",
+            "description": "Huge shoulder mention range point project.",
+            "category_id": 5,
+            "supplier_id": 2,
+            "unit_price": 497.17,
+            "quantity": 2,
+            "reorder_level": 13,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 5,
+            "name": "Voice",
+            "sku": "SKU-8964",
+            "description": "Protect hear all senior consider star trial price color front hospital available.",
+            "category_id": 4,
+            "supplier_id": 2,
+            "unit_price": 901.5,
+            "quantity": 17,
+            "reorder_level": 7,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 6,
+            "name": "Loss",
+            "sku": "SKU-7351",
+            "description": "Single administration only story guy to young if may station arrive explain manager.",
+            "category_id": 3,
+            "supplier_id": 3,
+            "unit_price": 674.97,
+            "quantity": 93,
+            "reorder_level": 19,
+            "status": "inactive",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 7,
+            "name": "South",
+            "sku": "SKU-4823",
+            "description": "Low concern yeah know seem analysis care cover eight goal evening its.",
+            "category_id": 10,
+            "supplier_id": 2,
+            "unit_price": 1190.78,
+            "quantity": 57,
+            "reorder_level": 8,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 8,
+            "name": "Kitchen",
+            "sku": "SKU-1005",
+            "description": "Pay member religious bar today somebody help.",
+            "category_id": 3,
+            "supplier_id": 1,
+            "unit_price": 991.06,
+            "quantity": 85,
+            "reorder_level": 13,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 9,
+            "name": "Office",
+            "sku": "SKU-7622",
+            "description": "World energy line seem friend give.",
+            "category_id": 2,
+            "supplier_id": 9,
+            "unit_price": 407.82,
+            "quantity": 0,
+            "reorder_level": 12,
+            "status": "inactive",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        },
+        {
+            "id": 10,
+            "name": "Purpose",
+            "sku": "SKU-3684",
+            "description": "Ask thank century protect season station physical serve hit fill trial.",
+            "category_id": 8,
+            "supplier_id": 2,
+            "unit_price": 1441.11,
+            "quantity": 43,
+            "reorder_level": 17,
+            "status": "active",
+            "created_at": "2023-12-19T14:37:33",
+            "updated_at": "2024-10-29T14:37:33"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "style": "LightSteelBlue",
+            "category_type": "Frontal",
+            "material": "Human hair",
+            "description": "Stand thing improve.",
+            "created-at": "2024-12-26"
+        },
+        {
+            "id": 2,
+            "style": "White",
+            "category_type": "Frontal",
+            "material": "Human hair",
+            "description": "Green nation call.",
+            "created-at": "2025-01-10"
+        },
+        {
+            "id": 3,
+            "style": "OliveDrab",
+            "category_type": "Frontal",
+            "material": "Fibre",
+            "description": "Lay assume site.",
+            "created-at": "2025-05-02"
+        },
+        {
+            "id": 4,
+            "style": "Beige",
+            "category_type": "Closure",
+            "material": "Human hair",
+            "description": "Happy listen truth.",
+            "created-at": "2025-08-21"
+        },
+        {
+            "id": 5,
+            "style": "RoyalBlue",
+            "category_type": "Frontal",
+            "material": "Human hair",
+            "description": "Fly laugh strong.",
+            "created-at": "2024-11-17"
+        },
+        {
+            "id": 6,
+            "style": "DimGray",
+            "category_type": "Closure",
+            "material": "Fibre",
+            "description": "Nearly garden try.",
+            "created-at": "2025-05-25"
+        },
+        {
+            "id": 7,
+            "style": "DarkSlateGray",
+            "category_type": "Frontal",
+            "material": "Synthetic",
+            "description": "Gun month book.",
+            "created-at": "2025-08-16"
+        },
+        {
+            "id": 8,
+            "style": "NavajoWhite",
+            "category_type": "Closure",
+            "material": "Synthetic",
+            "description": "Down walk over grow.",
+            "created-at": "2025-02-20"
+        },
+        {
+            "id": 9,
+            "style": "Tan",
+            "category_type": "Frontal",
+            "material": "Synthetic",
+            "description": "Either Democrat.",
+            "created-at": "2025-03-12"
+        },
+        {
+            "id": 10,
+            "style": "LightGray",
+            "category_type": "Frontal",
+            "material": "Synthetic",
+            "description": "Information animal.",
+            "created-at": "2025-05-20"
+        },
+        {
+            "id": 11,
+            "style": "Cyan",
+            "category_type": "Frontal",
+            "material": "Synthetic",
+            "description": "Debate mouth.",
+            "created-at": "2025-08-28"
+        }
+    ],
+    "suppliers": [
+        {
+            "id": 1,
+            "name": "Lee PLC",
+            "contact_person": "Kyle Miller",
+            "email": "sarahlamb@taylor.biz",
+            "phone": "001-904-797-5638x29099",
+            "address": "057 Rosario Walks\nStewartborough, WI 59358",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 2,
+            "name": "Cain-Lee",
+            "contact_person": "Janet Shaffer DVM",
+            "email": "lmason@bennett.com",
+            "phone": "995.606.0964x17953",
+            "address": "78945 Ian Brooks Suite 727\nSouth Whitneyberg, MD 48968",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 3,
+            "name": "Harper Inc",
+            "contact_person": "Steven Clay",
+            "email": "janice05@hughes.com",
+            "phone": "426-556-0907x2304",
+            "address": "48117 Aguirre Pike Apt. 667\nNorth Ashleychester, NC 47223",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 4,
+            "name": "Snyder and Sons",
+            "contact_person": "Vanessa Compton",
+            "email": "reneejones@smith.com",
+            "phone": "+1-600-736-4241",
+            "address": "527 Robert Pass\nMyersborough, MS 10602",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 5,
+            "name": "Oneill-Mitchell",
+            "contact_person": "Nathan Rodriguez",
+            "email": "stevensmichelle@mendez.com",
+            "phone": "560.818.1951",
+            "address": "2021 Johnson Drive\nSouth Russell, ID 87179",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 6,
+            "name": "Brown-Hernandez",
+            "contact_person": "Brandon Barnett",
+            "email": "scott33@glover.com",
+            "phone": "304-356-5300",
+            "address": "PSC 4328, Box 0984\nAPO AA 73269",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 7,
+            "name": "Wood-Anderson",
+            "contact_person": "Andrew Roberts",
+            "email": "hannah05@blake.com",
+            "phone": "+1-857-919-8361x335",
+            "address": "0402 Michael Courts\nLake Cassandra, KY 16394",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 8,
+            "name": "Ward LLC",
+            "contact_person": "David Davis",
+            "email": "april81@nichols.com",
+            "phone": "830.211.9176x522",
+            "address": "62128 Fisher Tunnel\nClaytonland, VI 03624",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 9,
+            "name": "Moody Group",
+            "contact_person": "Anthony Leonard",
+            "email": "nancycollins@mueller.com",
+            "phone": "543-363-7061x2208",
+            "address": "9685 Shirley Wall\nNorth Scott, ND 41324",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        },
+        {
+            "id": 10,
+            "name": "Johnson, Leonard and Moore",
+            "contact_person": "Annette Klein",
+            "email": "erobles@cruz.biz",
+            "phone": "(811)403-2294x58644",
+            "address": "99289 Shawn Shoal\nLake Lauren, OH 63337",
+            "created_at": "2025-10-01T01:10:05",
+            "updated_at": "2026-07-19T01:10:05",
+            "items": [],
+            "purchases": []
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Robert Marshall",
+            "email": "martha99@example.net",
+            "phone": "332-505-0917x56219",
+            "address": "178 Nichole Underpass\nRogerschester, WY 85513",
+            "customer_type": "corporate",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 2,
+            "name": "Gail Castillo",
+            "email": "curtismarquez@example.org",
+            "phone": "001-482-950-2226x283",
+            "address": "2458 Walker Meadow\nFosterton, SC 56780",
+            "customer_type": "single",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 3,
+            "name": "Melissa Baird",
+            "email": "hmarshall@example.org",
+            "phone": "001-455-453-8879x530",
+            "address": "760 Shah Crossroad\nStephaniestad, ND 41232",
+            "customer_type": "corporate",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 4,
+            "name": "Hannah Pope",
+            "email": "hansentiffany@example.org",
+            "phone": "+1-878-966-7132x535",
+            "address": "8613 Davis Crest\nGregoryland, VI 09072",
+            "customer_type": "corporate",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 5,
+            "name": "Matthew Dorsey",
+            "email": "therring@example.org",
+            "phone": "(301)248-6655x51592",
+            "address": "34542 Jacobs Lake Apt. 809\nRobersonborough, MA 32053",
+            "customer_type": "corporate",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 6,
+            "name": "Kristin Allison",
+            "email": "jamesolson@example.com",
+            "phone": "477.546.4167x1956",
+            "address": "687 Lawson Trail\nGregoryhaven, IA 91926",
+            "customer_type": "single",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 7,
+            "name": "Noah Miller",
+            "email": "xkelley@example.com",
+            "phone": "001-622-559-2246x227",
+            "address": "3990 Noble Trafficway\nNew Seth, HI 21270",
+            "customer_type": "wholesale",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 8,
+            "name": "Lisa Solis",
+            "email": "benjamin30@example.com",
+            "phone": "212.576.2188",
+            "address": "34272 Rojas Brooks Suite 466\nNew Douglas, IN 39739",
+            "customer_type": "single",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 9,
+            "name": "Rachel Wagner",
+            "email": "erikjackson@example.com",
+            "phone": "001-311-642-0763x8396",
+            "address": "3293 Alan Station Apt. 684\nJonesmouth, MD 66660",
+            "customer_type": "wholesale",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        },
+        {
+            "id": 10,
+            "name": "Joshua Davis",
+            "email": "jwalsh@example.com",
+            "phone": "627-374-1775x51354",
+            "address": "7762 John Run Suite 372\nLake Linda, MN 49993",
+            "customer_type": "corporate",
+            "created_at": "2023-12-01T19:30:07",
+            "updated_at": "2024-10-03T19:30:07"
+        }
+    ],
+    "warehouse": [
+        {
+            "id": 1,
+            "name": "Victoriastad Warehouse",
+            "location": "603 Perez Rapid Apt. 295\nShaffermouth, VT 00991",
+            "created_at": "2024-03-12T23:29:42",
+            "updated_at": "2025-03-08T23:29:42",
+            "purchases": [],
+            "sales": [],
+            "stock_movements": []
+        },
+        {
+            "id": 2,
+            "name": "Rogerston Warehouse",
+            "location": "42722 Alyssa Extensions Suite 687\nSouth Annaview, WY 91465",
+            "created_at": "2024-03-12T23:29:42",
+            "updated_at": "2025-03-08T23:29:42",
+            "purchases": [],
+            "sales": [],
+            "stock_movements": []
+        },
+        {
+            "id": 3,
+            "name": "Lauraland Warehouse",
+            "location": "415 Tamara Harbors Suite 879\nNorth Johnmouth, WI 56602",
+            "created_at": "2024-03-12T23:29:42",
+            "updated_at": "2025-03-08T23:29:42",
+            "purchases": [],
+            "sales": [],
+            "stock_movements": []
+        }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "item_id": 3,
+            "warehouse_id": 1,
+            "movement_type": "IN",
+            "quantity": 43,
+            "reference": "Military American teach study.",
+            "created_at": "2025-06-23T09:04:27",
+            "updated_at": "2025-07-19T09:04:27"
+        },
+        {
+            "id": 2,
+            "item_id": 2,
+            "warehouse_id": 2,
+            "movement_type": "OUT",
+            "quantity": 38,
+            "reference": "With capital cover after where authority.",
+            "created_at": "2025-06-23T09:04:27",
+            "updated_at": "2025-07-19T09:04:27"
+        },
+        {
+            "id": 3,
+            "item_id": 5,
+            "warehouse_id": 1,
+            "movement_type": "IN",
+            "quantity": 44,
+            "reference": "Mean Mr market point court song south.",
+            "created_at": "2025-06-23T09:04:27",
+            "updated_at": "2025-07-19T09:04:27"
+        },
+        {
+            "id": 4,
+            "item_id": 1,
+            "warehouse_id": 3,
+            "movement_type": "OUT",
+            "quantity": 25,
+            "reference": "Might degree court professional might.",
+            "created_at": "2025-06-23T09:04:27",
+            "updated_at": "2025-07-19T09:04:27"
+        },
+        {
+            "id": 5,
+            "item_id": 4,
+            "warehouse_id": 1,
+            "movement_type": "IN",
+            "quantity": 47,
+            "reference": "Phone federal team expert much.",
+            "created_at": "2025-06-23T09:04:27",
+            "updated_at": "2025-07-19T09:04:27"
+        }
+    ],
+    "sales": [
+        {
+            "id": 1,
+            "customer_id": 3,
+            "warehouse_id": 3,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "wholesale",
+            "total_amount": 4987.15,
+            "status": "cancelled",
+            "reference": "REF-52321",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 2,
+            "customer_id": 8,
+            "warehouse_id": 1,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "wholesale",
+            "total_amount": 4987.15,
+            "status": "completed",
+            "reference": "REF-53519",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 3,
+            "customer_id": 8,
+            "warehouse_id": 2,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "completed",
+            "reference": "REF-70059",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 4,
+            "customer_id": 8,
+            "warehouse_id": 2,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "wholesale",
+            "total_amount": 4987.15,
+            "status": "completed",
+            "reference": "REF-90965",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 5,
+            "customer_id": 5,
+            "warehouse_id": 1,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "completed",
+            "reference": "REF-12346",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 6,
+            "customer_id": 9,
+            "warehouse_id": 2,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "pending",
+            "reference": "REF-37943",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 7,
+            "customer_id": 9,
+            "warehouse_id": 2,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "pending",
+            "reference": "REF-95479",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 8,
+            "customer_id": 6,
+            "warehouse_id": 2,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "wholesale",
+            "total_amount": 4987.15,
+            "status": "pending",
+            "reference": "REF-47589",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 9,
+            "customer_id": 3,
+            "warehouse_id": 1,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "pending",
+            "reference": "REF-52778",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        },
+        {
+            "id": 10,
+            "customer_id": 10,
+            "warehouse_id": 1,
+            "sale_date": "2025-11-08T09:58:24",
+            "sale_type": "retail",
+            "total_amount": 4987.15,
+            "status": "completed",
+            "reference": "REF-12260",
+            "created_at": "2025-11-08T09:58:24",
+            "updated_at": "2025-11-11T09:58:24"
+        }
+    ],
+    "purchase": [
+        {
+            "id": 1,
+            "supplier_id": 6,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-56733",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 2,
+            "supplier_id": 19,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-50332",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 3,
+            "supplier_id": 7,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-92436",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 4,
+            "supplier_id": 12,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "cancelled",
+            "reference": "PUR-29866",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 5,
+            "supplier_id": 9,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-30199",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 6,
+            "supplier_id": 12,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-32307",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 7,
+            "supplier_id": 8,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-55366",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 8,
+            "supplier_id": 6,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "cancelled",
+            "reference": "PUR-81846",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 9,
+            "supplier_id": 2,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "cancelled",
+            "reference": "PUR-29625",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 10,
+            "supplier_id": 16,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-35899",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 11,
+            "supplier_id": 19,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-02657",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 12,
+            "supplier_id": 0,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "cancelled",
+            "reference": "PUR-10709",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 13,
+            "supplier_id": 6,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-06121",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 14,
+            "supplier_id": 14,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-25343",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 15,
+            "supplier_id": 9,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-33700",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 16,
+            "supplier_id": 8,
+            "warehouse_id": 3,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-18375",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 17,
+            "supplier_id": 6,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-82277",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 18,
+            "supplier_id": 14,
+            "warehouse_id": 2,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-99316",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 19,
+            "supplier_id": 10,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "completed",
+            "reference": "PUR-17151",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        },
+        {
+            "id": 20,
+            "supplier_id": 18,
+            "warehouse_id": 1,
+            "purchase_date": "2025-11-08T10:00:45",
+            "total_amount": 6635.47,
+            "status": "pending",
+            "reference": "PUR-27983",
+            "created_at": "2025-11-08T10:00:45",
+            "updated_at": "2025-11-25T10:00:45"
+        }
+    ]
+}
